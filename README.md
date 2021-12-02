@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bechara-Aad
 - 👀 Among some of my intrests: music, philosophy, film, science and politics
-- 🌱 I’m currently learning HTML/CSS & JS
-- 💞️ I’m looking to collaborate on projects to deliver to my prospective freelance clients
+- 🌱 I’m currently learning JS and experimenting with HTML/CSS 
+- 💞️ I will be looking to collaborate on projects & delivering to my prospective freelance clients
 - 📫 Im reachable at: bsharaaad@gmail.com
