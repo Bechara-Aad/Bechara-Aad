@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bechara-Aad
-- 👀 Among some of my intrests: music, philosophy, film, science and politics
-- 🌱 I’m currently learning JS and experimenting with HTML/CSS 
+- 👀 Among some of my interests: music, philosophy, film, science, politics and fitness
+- 🌱 I’m currently learning JS and experimenting with HTML/CSS
 - 💞️ I will be looking to collaborate on projects & delivering to my prospective freelance clients
 - 📫 Im reachable at: bsharaaad@gmail.com
 - 💭 I enjoy initiating stimulating discussions through my page www.instagram.com/thehumanisone
