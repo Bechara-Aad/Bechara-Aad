@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning JS and experimenting with HTML/CSS
 - 💞️ I will be looking to collaborate on projects & delivering to my prospective freelance clients
 - 📫 Im reachable at: bsharaaad@gmail.com
-- 💭 I enjoy initiating stimulating discussions through my page www.instagram.com/thehumanisone
+- 💭 I find pleasure in starting stimulating discussions through my page www.instagram.com/thehumanisone
